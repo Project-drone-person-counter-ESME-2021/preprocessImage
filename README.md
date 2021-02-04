@@ -47,6 +47,10 @@ concat_img.py : Is for getting one image from multiple image
 create_multiple_image_from_panorama.py : Is to create image test
 index.py : Is just a test
 
+## final :
+Use propre.py :
+To do all thing one time use concat function, it takes left and right image and return concat image of the two.
+
 
 
 
