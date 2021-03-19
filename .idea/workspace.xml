@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d186b53b-b484-4f22-b57e-b62a1d686b86" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/propre.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/preprocessImage.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/preprocessImage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concat_img.py" beforeDir="false" afterPath="$PROJECT_DIR$/concat_img.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create_multiple_image_from_panorama.py" beforeDir="false" afterPath="$PROJECT_DIR$/create_multiple_image_from_panorama.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/panorama_multiple/panorama_montains_photo_0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/panorama_multiple/panorama_montains_photo_0.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/panorama_multiple/panorama_montains_photo_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/panorama_multiple/panorama_montains_photo_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/panorama_multiple/panorama_montains_photo_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/panorama_multiple/panorama_montains_photo_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/panorama_multiple/panorama_montains_photo_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/panorama_multiple/panorama_montains_photo_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/panorama_multiple/panorama_montains_photo_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/panorama_multiple/panorama_montains_photo_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/panorama_multiple/panorama_montains_photo_5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/panorama_multiple/panorama_montains_photo_5.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +39,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -44,7 +55,9 @@
       <workItem from="1611675482254" duration="2653000" />
       <workItem from="1611845017507" duration="670000" />
       <workItem from="1611935453358" duration="14000" />
-      <workItem from="1612435938938" duration="723000" />
+      <workItem from="1612435938938" duration="1063000" />
+      <workItem from="1612472635983" duration="39000" />
+      <workItem from="1612896094784" duration="2818000" />
     </task>
     <servers />
   </component>

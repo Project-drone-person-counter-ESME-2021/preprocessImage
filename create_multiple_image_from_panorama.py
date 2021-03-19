@@ -72,4 +72,4 @@ def pre_process(path_folder_img, name_file_img, type_file_img, nb_img, randomize
 
 
 if __name__ == '__main__':
-    pre_process("./src/panorama/", "panorama_montains", ".jpeg", 6, True, False)
+    pre_process("./src/panorama/", "panorama_montains", ".jpeg", 10, True, False)
